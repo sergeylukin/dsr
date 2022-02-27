@@ -1,0 +1,12 @@
+{
+  "name": "dsr",
+  "version": "0.1.0",
+  "description": "Design System run CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Lukin <contact@sergeylukin.com> (https://sergeylukin.com/)",
+  "license": "MIT",
+  "bin": "cli.js"
+}
